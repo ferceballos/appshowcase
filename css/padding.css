@@ -1,0 +1,25 @@
+/* No padding*/
+
+.npt{
+    padding-top: 0;
+}
+
+.npb{
+    padding-bottom: 0;
+}
+/* No margins */
+
+.nmb {
+    margin-bottom: 0;
+}
+
+
+/* Padding top */
+
+.pt1{
+    padding-top: 3%;
+}
+
+.pt2{
+    padding-top: 6%;
+}
